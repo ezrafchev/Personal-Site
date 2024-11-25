@@ -11,3 +11,9 @@
  ✓ Compiled / in 7.5s (690 modules)
  HEAD / 200 in 8345ms
  ✓ Compiled in 819ms (313 modules)
+ ⚠ Found a change in next.config.js. Restarting the server to apply the changes...
+   ▲ Next.js 15.0.3
+   - Local:        http://localhost:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.1s
