@@ -11,7 +11,7 @@ export default function Home() {
           <div className="bg-white p-6 rounded-lg shadow-md">
             <h2 className="text-2xl font-semibold mb-4">About Me</h2>
             <p className="text-gray-600">
-              I'm a passionate developer who loves creating modern web applications.
+              I&apos;m a passionate developer who loves creating modern web applications.
               This site showcases my skills and projects using Next.js, React, and Tailwind CSS.
             </p>
           </div>
