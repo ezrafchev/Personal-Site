@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# My Personal Website :computer_mouse:
+
+This is a personal website project built with [Next.js](https://nextjs.org), bootstrapped with [](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+* An experiment that will evolve over time
 
 ## Getting Started
 
