@@ -4,6 +4,7 @@ This is a personal website project built with [Next.js](https://nextjs.org), boo
 
 * An experiment that will evolve over time
 * This line is added to trigger a new workflow run
+* Another line to trigger the workflow
 
 ## Getting Started
 
